@@ -1,13 +1,13 @@
 /* 1. Cor de fundo suave */
 body {
-    background-color: #f0f8ff; /* azul clarinho, suave */
+    background-color: #f0f8ff; /* azul claro, suave */
     font-family: Arial, sans-serif;
     margin: 20px;
 }
 
 /* 2. Estilo do título <h1> */
 h1 {
-    color: #2a4d69;
+    color: #0b775c; /* verde escuro */
     text-align: center;
 }
 

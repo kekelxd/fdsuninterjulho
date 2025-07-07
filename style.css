@@ -1,0 +1,62 @@
+/* 1. Cor de fundo suave */
+body {
+    background-color: #f0f8ff; /* azul clarinho, suave */
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+/* 2. Estilo do título <h1> */
+h1 {
+    color: #2a4d69;
+    text-align: center;
+}
+
+/* 3. Estilo do parágrafo <p> */
+p {
+    font-size: 18px;
+    text-align: justify;
+    line-height: 1.6;
+}
+
+/* 4. Lista não ordenada <ul> */
+ul {
+    padding-left: 20px;
+}
+
+ul li {
+    margin-bottom: 10px;
+}
+
+/* 5. Imagem do hobby <img> */
+img {
+    display: block;
+    margin: 60px auto;
+    width: 300px;
+    border-radius: 10px;
+}
+
+/* 6. Tabela de países */
+table {
+    width: 70%;
+    margin: 10px auto;
+    border-collapse: collapse;
+    background-color: #ffffff;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+table td {
+    border: 1px solid #ccc;
+    padding: 5px;
+    text-align: center;
+}
+
+/* 7. Link <a> com efeito hover */
+a {
+    color: #0066cc;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #ff6600;
+    text-decoration: underline;
+}
